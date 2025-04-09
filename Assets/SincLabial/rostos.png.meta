@@ -1,0 +1,1115 @@
+fileFormatVersion: 2
+guid: 52147a7bd9673fb43ae6d26524a85cd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1188162217514296995
+    second: rostos_0
+  - first:
+      213: -2542447431074257466
+    second: rostos_1
+  - first:
+      213: -9127191162171312822
+    second: rostos_2
+  - first:
+      213: 8138436976300430152
+    second: rostos_3
+  - first:
+      213: -7120287816069660548
+    second: rostos_4
+  - first:
+      213: 8877792185872629482
+    second: rostos_5
+  - first:
+      213: -8024234753636389278
+    second: rostos_6
+  - first:
+      213: -1505042253195384459
+    second: rostos_7
+  - first:
+      213: -6528688811277146004
+    second: rostos_8
+  - first:
+      213: 59076849828506744
+    second: rostos_9
+  - first:
+      213: -3194990277008095615
+    second: rostos_10
+  - first:
+      213: 1109801955042916364
+    second: rostos_11
+  - first:
+      213: 6688241862703790902
+    second: rostos_12
+  - first:
+      213: -3660342463270953476
+    second: rostos_13
+  - first:
+      213: 3951007612624903879
+    second: rostos_14
+  - first:
+      213: 5393954429270788327
+    second: rostos_15
+  - first:
+      213: 2010108346867927832
+    second: rostos_16
+  - first:
+      213: -4739079001932042006
+    second: rostos_17
+  - first:
+      213: -3764964969102111468
+    second: rostos_18
+  - first:
+      213: -1104061629307632628
+    second: rostos_19
+  - first:
+      213: -2331841794141133858
+    second: rostos_20
+  - first:
+      213: -3528137948226165308
+    second: rostos_21
+  - first:
+      213: 5325238208766919886
+    second: rostos_22
+  - first:
+      213: -1450835103543816489
+    second: rostos_23
+  - first:
+      213: 7787571575521661784
+    second: rostos_24
+  - first:
+      213: 2749136004234806003
+    second: rostos_25
+  - first:
+      213: -49980275318677578
+    second: rostos_26
+  - first:
+      213: -1302387631921968689
+    second: rostos_27
+  - first:
+      213: 5340043811089939523
+    second: rostos_28
+  - first:
+      213: -6153927635974830374
+    second: rostos_29
+  - first:
+      213: 7472202353537459523
+    second: rostos_30
+  - first:
+      213: 8094275776357331029
+    second: rostos_31
+  - first:
+      213: 7131239535595490683
+    second: rostos_32
+  - first:
+      213: 8564121294416178174
+    second: rostos_33
+  - first:
+      213: 7143845866239877885
+    second: rostos_34
+  - first:
+      213: -5665711940987061971
+    second: rostos_35
+  - first:
+      213: 41440718100390871
+    second: rostos_36
+  - first:
+      213: 9206433063358844894
+    second: rostos_37
+  - first:
+      213: 6058111609418107222
+    second: rostos_38
+  - first:
+      213: 6970228707954659490
+    second: rostos_39
+  - first:
+      213: 1743528618841175716
+    second: rostos_40
+  - first:
+      213: -1181410650792399445
+    second: rostos_41
+  - first:
+      213: -570626859668006648
+    second: rostos_42
+  - first:
+      213: 6254747177949450364
+    second: rostos_43
+  - first:
+      213: -2826980258804964898
+    second: rostos_44
+  - first:
+      213: 140983236121373669
+    second: rostos_45
+  - first:
+      213: 6526325290450991336
+    second: rostos_46
+  - first:
+      213: 4292456463880015175
+    second: rostos_47
+  - first:
+      213: 2058366077773737858
+    second: rostos_48
+  - first:
+      213: 153148414968697529
+    second: rostos_49
+  - first:
+      213: 8274151876550826088
+    second: rostos_50
+  - first:
+      213: 7123362814316069239
+    second: rostos_51
+  - first:
+      213: -6460900848166424467
+    second: rostos_52
+  - first:
+      213: -3164498739700654498
+    second: rostos_53
+  - first:
+      213: 7452537624559965766
+    second: rostos_54
+  - first:
+      213: -6536760705109957393
+    second: rostos_55
+  - first:
+      213: -8709508239407032231
+    second: rostos_56
+  - first:
+      213: 2548902104528568311
+    second: rostos_57
+  - first:
+      213: -476232803615674011
+    second: rostos_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rostos_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1293
+        width: 200
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5676d9a39890fc0800000000000000
+      internalID: -3528137948226165308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_22
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1293
+        width: 200
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4c3e1cfeb07e940800000000000000
+      internalID: 5325238208766919886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_23
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1296
+        width: 245
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de8a9109299ddbe0800000000000000
+      internalID: -1450835103543816489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_24
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1296
+        width: 243
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853d5ed6613031c60800000000000000
+      internalID: 7787571575521661784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_26
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 822
+        width: 526
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf9ad3543f6e4ff0800000000000000
+      internalID: -49980275318677578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_27
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 821
+        width: 446
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9cd6f595dfcede0800000000000000
+      internalID: -1302387631921968689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_28
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 822
+        width: 519
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cf90dad85ab1a40800000000000000
+      internalID: 5340043811089939523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1110
+        width: 197
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6c2448b6bd89aa0800000000000000
+      internalID: -6153927635974830374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_30
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1110
+        width: 198
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345207c737892b760800000000000000
+      internalID: 7472202353537459523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_31
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1186
+        width: 237
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550f3dbeee4a45070800000000000000
+      internalID: 8094275776357331029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_32
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1186
+        width: 234
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d046f139047f260800000000000000
+      internalID: 7131239535595490683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_33
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 911
+        width: 187
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbe80f41fed9d670800000000000000
+      internalID: 8564121294416178174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_34
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 911
+        width: 187
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2ee5337f9042360800000000000000
+      internalID: 7143845866239877885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_35
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1044
+        width: 222
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29f6c502095f51b0800000000000000
+      internalID: -5665711940987061971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_36
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1043
+        width: 222
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d36c911d1a339000800000000000000
+      internalID: 41440718100390871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 735
+        width: 199
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf4ae5e712d3cf70800000000000000
+      internalID: 9206433063358844894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 735
+        width: 198
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6594909596cb21450800000000000000
+      internalID: 6058111609418107222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_39
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 871
+        width: 257
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a01edc741a3bb060800000000000000
+      internalID: 6970228707954659490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_40
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 873
+        width: 254
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a671cd8a02423810800000000000000
+      internalID: 1743528618841175716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_41
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 764
+        width: 234
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bade7a1c549ca9fe0800000000000000
+      internalID: -1181410650792399445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_42
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 766
+        width: 233
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809113af4e9b418f0800000000000000
+      internalID: -570626859668006648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_47
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 152
+        width: 452
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dc567596ed19b30800000000000000
+      internalID: 4292456463880015175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_48
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 145
+        width: 613
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fea63ca09c09c10800000000000000
+      internalID: 2058366077773737858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_49
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 151
+        width: 420
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b29f180ca7102200800000000000000
+      internalID: 153148414968697529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 462
+        width: 245
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868917b1b41b3d270800000000000000
+      internalID: 8274151876550826088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 458
+        width: 309
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77149890db44bd260800000000000000
+      internalID: 7123362814316069239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_52
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 490
+        width: 176
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d603500f8e44656a0800000000000000
+      internalID: -6460900848166424467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_53
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 298
+        width: 202
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e98f799217514d0800000000000000
+      internalID: -3164498739700654498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_54
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 296
+        width: 277
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646512bfb7bbc6760800000000000000
+      internalID: 7452537624559965766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_55
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 323
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4603e95c2c845a0800000000000000
+      internalID: -6536760705109957393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_56
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 145
+        width: 275
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9585ec5b66c912780800000000000000
+      internalID: -8709508239407032231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_57
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 145
+        width: 232
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffbbab95f48f5320800000000000000
+      internalID: 2548902104528568311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_58
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 145
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561791ec9c41469f0800000000000000
+      internalID: -476232803615674011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rostos_0
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 71
+        width: 1173
+        height: 1364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9589375377a453044a1da47efe8a79d0
+      internalID: 1871902585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3b41c5548ca82be438b2b49547fa9573
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rostos_0: 1871902585
+      rostos_21: -3528137948226165308
+      rostos_22: 5325238208766919886
+      rostos_23: -1450835103543816489
+      rostos_24: 7787571575521661784
+      rostos_26: -49980275318677578
+      rostos_27: -1302387631921968689
+      rostos_28: 5340043811089939523
+      rostos_29: -6153927635974830374
+      rostos_30: 7472202353537459523
+      rostos_31: 8094275776357331029
+      rostos_32: 7131239535595490683
+      rostos_33: 8564121294416178174
+      rostos_34: 7143845866239877885
+      rostos_35: -5665711940987061971
+      rostos_36: 41440718100390871
+      rostos_37: 9206433063358844894
+      rostos_38: 6058111609418107222
+      rostos_39: 6970228707954659490
+      rostos_40: 1743528618841175716
+      rostos_41: -1181410650792399445
+      rostos_42: -570626859668006648
+      rostos_47: 4292456463880015175
+      rostos_48: 2058366077773737858
+      rostos_49: 153148414968697529
+      rostos_50: 8274151876550826088
+      rostos_51: 7123362814316069239
+      rostos_52: -6460900848166424467
+      rostos_53: -3164498739700654498
+      rostos_54: 7452537624559965766
+      rostos_55: -6536760705109957393
+      rostos_56: -8709508239407032231
+      rostos_57: 2548902104528568311
+      rostos_58: -476232803615674011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
